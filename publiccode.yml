@@ -22,6 +22,12 @@ description:
       - List softwares
 legal:
   license: AGPL-3.0-or-later
+  mainCopyrightOwner: 
+    id: https://ld.admin.ch/ou/20048177
+    de: Bereich DTI und IKT-Lenkung
+    fr: Secteur Transformation numérique et gouv
+    it: Settore Trasformazione digitale e govern 
+    en: Bereich DTI und IKT-Lenkung
 maintenance:
   type: none
 localisation:
